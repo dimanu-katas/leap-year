@@ -1,6 +1,6 @@
 import pytest
 
-from leap_year.src.leap_year import Year
+from leap_year.solution.src.leap_year import Year
 
 
 @pytest.mark.parametrize("year_number", [1993, 1997, 2001, 2005, 2009])
