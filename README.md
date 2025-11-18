@@ -1,7 +1,5 @@
 # :date: Leap Year Kata :date:
 
-## Resources
-
 These instructions where extracted from Codurance Kata Catalogue. You can find the original instructions in the link below.
 
 [![Web](https://img.shields.io/badge/Codurance-Website-14a1f0?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](https://www.codurance.com/katas/leap-year)
@@ -40,4 +38,4 @@ Additionally, TDD is going to be used as methodology to develop the function. Th
 
 ## Visit my GitHub profile for more katas 🚀
 
-[![Web](https://img.shields.io/badge/GitHub-Dimanu.py-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dimanu-py/python-code-katas)
+[![Web](https://img.shields.io/badge/GitHub-Dimanu.py-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/orgs/dimanu-katas/repositories)
